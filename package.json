@@ -52,7 +52,7 @@
     "extract-files": "^11.0.0"
   },
   "devDependencies": {
-    "@apollo/client": "^3.3.20",
+    "@apollo/client": "^3.4.16",
     "abort-controller": "^3.0.0",
     "coverage-node": "^5.0.1",
     "esbuild": "^0.12.8",
@@ -66,7 +66,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "fetch-blob": "^2.1.2",
     "formdata-node": "^3.5.3",
-    "graphql": "^15.1.0",
+    "graphql": "^16.0.1",
     "gzip-size": "^6.0.0",
     "jsdoc-md": "^11.0.0",
     "node-fetch": "^3.0.0-beta.9",
